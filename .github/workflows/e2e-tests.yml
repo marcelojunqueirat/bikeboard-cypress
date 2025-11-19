@@ -8,7 +8,7 @@ on:
         required: true
         default: "http://localhost:3000"
       browser:
-        description: "Escolha o navegador de sua preferência"
+        description: "Escolha o navegador de sua preferência (electron, chrome, firefox, edge)"
         required: true
         default: "chrome"
 
